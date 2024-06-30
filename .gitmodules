@@ -1,0 +1,6 @@
+[submodule "submodules/tvout"]
+	path = submodules/tvout
+	url = https://github.com/Avamander/arduino-tvout
+[submodule "submodules/aunit"]
+	path = submodules/aunit
+	url = https://github.com/bxparks/AUnit
